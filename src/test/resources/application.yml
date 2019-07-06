@@ -1,0 +1,14 @@
+locale-info:
+  language: en
+  country: US
+
+spring:
+  shell:
+    interactive:
+      enabled: false
+  messages:
+    basename: i18n/bundle
+    encoding: UTF-8
+  output:
+    ansi:
+      enabled: ALWAYS
